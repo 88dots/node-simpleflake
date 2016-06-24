@@ -1,6 +1,6 @@
 {
   "name": "simpleflake",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Distributed id generation for the lazy.",
 
   "author": "Simon Ratner (https://github.com/simonratner)",
@@ -14,11 +14,11 @@
   ],
 
   "dependencies": {
-    "bignum": "^0.11.0"
+    "bignum": "0.12.5"
   },
 
   "optionalDependencies": {
-    "base58-native": "^0.1"
+    "base58-native": "0.1.4"
   },
 
   "devDependencies": {
