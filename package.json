@@ -1,6 +1,6 @@
 {
   "name": "@counterplay/simpleflake",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Distributed id generation for the lazy.",
 
   "author": "Simon Ratner (https://github.com/simonratner)",
